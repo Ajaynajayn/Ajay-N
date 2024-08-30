@@ -25,7 +25,9 @@ Hi there! I’m AJAY N, a passionate **software developer** with a love for crea
 
 ![Ajaynajyn GitHub stats](https://github.com/Ajaynajayn)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&date_format=j%20M%20Y)
+## 📈 My GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true)
 
 
 
