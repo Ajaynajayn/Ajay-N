@@ -3,7 +3,7 @@
 ## 🌟 About Me
 Hi there! I’m AJAY N, a passionate **software developer** with a love for creating innovative web applications and contributing to open-source projects. I specialize in **full-stack development** with a focus on **java** and **html**, and I have a keen interest in **machine learning**.
 
-- 🌱 I’m currently learning paython.
+- 🌱 I’m currently learning python.
 - 📫 How to reach me: ajaynwork230@gmail.com.
 - ⚡ Fun fact: "I’ve created a personal website from scratch using only HTML and CSS as a challenge."
 .
