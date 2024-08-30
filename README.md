@@ -19,7 +19,7 @@ Hi there! I’m AJAY N, a passionate **software developer** with a love for crea
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/ajay-n12/)
-- [Twitter](https://twitter.com/your-profile
+- [Twitter](https://x.com/ajayajayn05)
 
 ## 📈 GitHub Stats
 
