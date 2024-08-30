@@ -25,6 +25,9 @@ Hi there! I’m AJAY N, a passionate **software developer** with a love for crea
 
 ![Ajaynajyn GitHub stats](https://github.com/Ajaynajayn)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&date_format=j%20M%20Y)
+
+
 
 Feel free to reach out to me through [ajaynwork230@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ajay-n12/).
 
