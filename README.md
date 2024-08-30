@@ -26,7 +26,7 @@ Hi there! I’m AJAY N, a passionate **software developer** with a love for crea
 ![Ajaynajyn GitHub stats](https://github.com/Ajaynajayn)
 
 
-Feel free to reach out to me through [ajaynwor230@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ajay-n12/).
+Feel free to reach out to me through [ajaynwork230@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ajay-n12/).
 
 Thanks for visiting my profile! 😄
 
