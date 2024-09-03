@@ -1,5 +1,4 @@
 # Hi there, I'm AJAY N 👋
-
 ## 🌟 About Me
 Hi there! I’m AJAY N, a passionate **software developer** with a Specialized for creating innovative web applications and contributing to open-source projects. I specialized in **full-stack development** with a focus on **java** and **html**, and I have a been interest in **python**,**machine learning**.
 
@@ -13,7 +12,6 @@ Hi there! I’m AJAY N, a passionate **software developer** with a Specialized f
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/ajay-n12/)
