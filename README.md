@@ -13,6 +13,8 @@ Hi there! I’m AJAY N, a passionate **software developer** with a Specialized f
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+
+
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/ajay-n12/)
 - [Twitter](https://x.com/ajayajayn05)
