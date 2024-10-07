@@ -7,6 +7,10 @@ Hi there! I’m AJAY N, a passionate **software developer** with a Specialized f
 - 📫 How to reach me: ajaynwork230@gmail.com.
 - ⚡ Fun fact: "I’ve created a personal website from scratch using only HTML and CSS as a challenge."
 
+
+
+
+
 ## 🚀 Skills
 - **Languages**: Python, sql, Java
 ## 🛠️ Technologies & Tools
